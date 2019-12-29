@@ -1,2 +1,2 @@
-npm i
-node src/app.js
+node build;
+node start;
